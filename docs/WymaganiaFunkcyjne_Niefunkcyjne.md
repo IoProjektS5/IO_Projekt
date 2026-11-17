@@ -42,26 +42,12 @@
 
  
 
-1. Wydajność
-
-- System musi obsłużyć skokowy wzrost ruchu  bez utraty wydajności.
-
-2. Bezpieczeństwo (Security)
-
-- Wszystkie dane przesyłane między klientem a serwerem muszą być szyfrowane. 
-
-Weryfikacja e-maili musi opierać się na bezpiecznym mechanizmie tokenów.
-
-3. Niezawodność i Dostępność
-
-- System wykonuje automatyczne kopie zapasowe (Backup) bazy danych.
-
-4. Użyteczność (Usability)
-
-- Interfejs musi być w pełni responsywny (RWD).
-
-5. Wsparcie techniczne (Maintainability)
-
-- Kod aplikacji musi być wersjonowany w systemie kontroli wersji. 
-
-- System powinien być zaprojektowany w architekturze umożliwiającej łatwą integrację z API zewnętrznymi.
+| Obszar | Wymaganie |
+|---|---|
+| 1. Wydajność | System musi obsłużyć skokowy wzrost ruchu  bez utraty wydajności. |
+| 2. Bezpieczeństwo (Security) | Wszystkie dane przesyłane między klientem a serwerem muszą być szyfrowane. |
+|  | Weryfikacja e-maili musi opierać się na bezpiecznym mechanizmie tokenów. |
+| 3. Niezawodność i Dostępność | System wykonuje automatyczne kopie zapasowe (Backup) bazy danych. |
+| 4. Użyteczność (Usability) | Interfejs musi być w pełni responsywny (RWD). |
+| 5. Wsparcie techniczne (Maintainability) | Kod aplikacji musi być wersjonowany w systemie kontroli wersji. |
+|  | System powinien być zaprojektowany w architekturze umożliwiającej łatwą integrację z API zewnętrznymi. |
